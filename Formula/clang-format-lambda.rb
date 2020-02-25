@@ -1,7 +1,7 @@
 class ClangFormatLambda < Formula
   desc "Formatting tools for C, C++, Obj-C, Java, JavaScript, TypeScript"
   homepage "https://clang.llvm.org/docs/ClangFormat.html"
-  version "2019-05-14"
+  version "9.0.1"
   
   stable do
     depends_on "git" => :build
